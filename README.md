@@ -1,5 +1,5 @@
 # myAgro Data Analytics Project
-This repository contains the colab notebook my team and I used to perform our analytics project. Contributors include Xinyi (Esme) Li, Paul Seiters, Tripti Sharma, and Shu Wang (Alex).
+This repository contains the colab notebook my team and I used to perform our analytics project. **Contributors include Xinyi (Esme) Li, Paul Seiters, Tripti Sharma, and Shu Wang (Alex).**
 
 **Problem Definition:**
 1. Our project goal is to improve myAgro's sales and farmers' yields by analyzing key variables and comparing high-yield groups with low-yield ones. We believe this is an important because our insights could help myAgro provide better services and improve sales strategy to empower smallholder farmers.
